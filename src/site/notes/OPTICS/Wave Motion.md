@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-24T23:19:16.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-24T23:24:14.000+08:00"}
 ---
 
 # What is WAVES?
 According to books on the subject, waves can be thought of as a means of transferring energy[@liuAdaptivePhotonicRF2020] or as interactions between particle[@kanseriBroadbandSpectralShaping2019]. We can simply imagine a scenario where a rope is jiggled up and down, and because the two neighboring masses are closely connected, the first mass falls while driving the second mass, and so on, and the motion is gradually transferred to the farther side, a process accompanied by the transfer of energy. Clearly, the wave is a self-sustaining perturbation in the medium, **and we can know that the perturbation moves forward and the medium does not move forward**.
 # How to Descirbe?
 Obviously, there are two kinds of waves, one is the example of rope just given, when the displacement of the medium is perpendicular to the direction of motion of the wave, which is a longitudinal wave. The other can be imagined as a spring, where the motion of the medium is in a straight line with the direction of motion of the wave. Here, we focus on longitudinal waves.
-![Pasted image 20250424204520.png|300](/img/user/OPTICS/Pasted%20image%2020250424204520.png)
-
-![Pasted image 20250424204533.png|375](/img/user/OPTICS/Pasted%20image%2020250424204533.png)
+![Pasted image 20250424204520.png|300](/img/user/OPTICS/Pasted%20image%2020250424204520.png)![Pasted image 20250424204533.png|375](/img/user/OPTICS/Pasted%20image%2020250424204533.png)
 ## One-Dimensional Waves
 Taking the previously discussed rope as an example, imagine taking a picture of a desktop at a certain point in time; some part of him should show a specific waveform. This waveform can be described by taking the forward direction of the wave as the x-axis. Obviously, this waveform is related to both the time $t$ and the displacement $x$. If the energy loss in the transfer process is not considered, then this waveform does not change. 
 Now we try to describe this functional relationship $\psi=f(x,t)$. Binary variables are always less easy to deal with so we try to fix a value to make the discussion simple, time always passes so we try to fix $x$. Imagine if there is a new coordinate system moving along with this wave, then $\psi$ is only affected by time.
@@ -29,10 +27,10 @@ $$\begin{align}\tau&=\frac{\lambda}{v} \\\omega &=\frac{2\pi}{\tau} \\\nu&=\frac
 # Phase and Its Speed
 We examine the independent variable $kx-\omega t$ of the harmonics such that $\varphi = kx-\omega t$. It is clear that $\varphi$ is also affected by $x$ and $t$. The significance of this value is the angle between the radius of the circle and the x-axis. Imagine that the parameters of the circle are determined, then the position $x$ of the wave at moment $t$ is also determined and its phase angle is also determined, which explains why $\varphi$ is affected by $x$ and $t$. If initially the radius does not coincide with the x-axis, the action on the wave at this point will always be there, which we call the initial phase $\varphi$. According to the very beginning we said that the perturbation moves forward, the medium does not move forward, and for a point on the perturbation it remains fixed, moving forward with the wave, and therefore its phase-fixed state moves at the same rate as the wave. Of course, we can also arrive at this conclusion by derivation:
 $$\begin{align}
-&\frac{{\partial \varphi}}{{\partial t}}=w ,\frac{{\partial \varphi}}{{\partial x}}=k \\
-&\implies\left( \frac{{\partial x}}{{\partial t}} \right)_{\varphi}=\frac{\omega }{k}=v
-\end{align}$$The effect of $t$ on $\varphi$ is reflected in $\varphi=\omega t$, and $x$ is reflected in $\varphi=kx$
-
+\frac{{\partial \varphi}}{{\partial t}}=w ,\frac{{\partial \varphi}}{{\partial x}}=k \\
+\implies\left( \frac{{\partial x}}{{\partial t}} \right)_{\varphi}=\frac{\omega }{k}=v
+\end{align}$$
+The effect of $t$ on $\varphi$ is reflected in $\varphi=\omega t$, and $x$ is reflected in $\varphi=kx$
 # Plural Pepresentation
 According to Euler's formula, we have:
 $$\psi(x,t)=\mathrm{Re}(Ae^{i(kx-\omega t+\varepsilon)})$$
@@ -47,7 +45,7 @@ $$\begin{align}
 $$
 
 
-![Pasted image 20250424224211.png|550](/img/user/Pasted%20image%2020250424224211.png)![Pasted image 20250424224548.png|550](/img/user/Pasted%20image%2020250424224548.png)It can be seen that $k_{x},k_{y},k_{z}$ indicate the direction of propagation.And obviously at this point we have:
+![Pasted image 20250424224211.png|250](/img/user/Pasted%20image%2020250424224211.png)![Pasted image 20250424224548.png|325](/img/user/Pasted%20image%2020250424224548.png)It can be seen that $k_{x},k_{y},k_{z}$ indicate the direction of propagation.And obviously at this point we have:
 $$
 \begin{align}
 &v^2\frac{{\partial^2 \psi}}{\partial (\vec r)^2}=\frac{{\partial^2 \psi}}{\partial t^2} \\
