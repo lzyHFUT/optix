@@ -1,27 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-24T23:16:06.000+08:00"}
+{"dg-publish":true,"permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-24T23:19:16.000+08:00"}
 ---
 
 # What is WAVES?
 According to books on the subject, waves can be thought of as a means of transferring energy[@liuAdaptivePhotonicRF2020] or as interactions between particle[@kanseriBroadbandSpectralShaping2019]. We can simply imagine a scenario where a rope is jiggled up and down, and because the two neighboring masses are closely connected, the first mass falls while driving the second mass, and so on, and the motion is gradually transferred to the farther side, a process accompanied by the transfer of energy. Clearly, the wave is a self-sustaining perturbation in the medium, **and we can know that the perturbation moves forward and the medium does not move forward**.
 # How to Descirbe?
 Obviously, there are two kinds of waves, one is the example of rope just given, when the displacement of the medium is perpendicular to the direction of motion of the wave, which is a longitudinal wave. The other can be imagined as a spring, where the motion of the medium is in a straight line with the direction of motion of the wave. Here, we focus on longitudinal waves.
-
---- start-multi-column: ID_8b4u
-```column-settings
-Number of Columns: 2
-Largest Column: standard
-```
-
 ![Pasted image 20250424204520.png|300](/img/user/OPTICS/Pasted%20image%2020250424204520.png)
 
---- column-break ---
-
 ![Pasted image 20250424204533.png|375](/img/user/OPTICS/Pasted%20image%2020250424204533.png)
-
---- end-multi-column
-
-
 ## One-Dimensional Waves
 Taking the previously discussed rope as an example, imagine taking a picture of a desktop at a certain point in time; some part of him should show a specific waveform. This waveform can be described by taking the forward direction of the wave as the x-axis. Obviously, this waveform is related to both the time $t$ and the displacement $x$. If the energy loss in the transfer process is not considered, then this waveform does not change. 
 Now we try to describe this functional relationship $\psi=f(x,t)$. Binary variables are always less easy to deal with so we try to fix a value to make the discussion simple, time always passes so we try to fix $x$. Imagine if there is a new coordinate system moving along with this wave, then $\psi$ is only affected by time.
@@ -45,6 +32,7 @@ $$\begin{align}
 &\frac{{\partial \varphi}}{{\partial t}}=w ,\frac{{\partial \varphi}}{{\partial x}}=k \\
 &\implies\left( \frac{{\partial x}}{{\partial t}} \right)_{\varphi}=\frac{\omega }{k}=v
 \end{align}$$The effect of $t$ on $\varphi$ is reflected in $\varphi=\omega t$, and $x$ is reflected in $\varphi=kx$
+
 # Plural Pepresentation
 According to Euler's formula, we have:
 $$\psi(x,t)=\mathrm{Re}(Ae^{i(kx-\omega t+\varepsilon)})$$
