@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-24T23:24:14.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-24T23:28:34.000+08:00"}
 ---
 
 # What is WAVES?
-According to books on the subject, waves can be thought of as a means of transferring energy[@liuAdaptivePhotonicRF2020] or as interactions between particle[@kanseriBroadbandSpectralShaping2019]. We can simply imagine a scenario where a rope is jiggled up and down, and because the two neighboring masses are closely connected, the first mass falls while driving the second mass, and so on, and the motion is gradually transferred to the farther side, a process accompanied by the transfer of energy. Clearly, the wave is a self-sustaining perturbation in the medium, **and we can know that the perturbation moves forward and the medium does not move forward**.
+According to books on the subject, waves can be thought of as a means of transferring energy[1]or as interactions between particle[2]. We can simply imagine a scenario where a rope is jiggled up and down, and because the two neighboring masses are closely connected, the first mass falls while driving the second mass, and so on, and the motion is gradually transferred to the farther side, a process accompanied by the transfer of energy. Clearly, the wave is a self-sustaining perturbation in the medium, **and we can know that the perturbation moves forward and the medium does not move forward**.
 # How to Descirbe?
 Obviously, there are two kinds of waves, one is the example of rope just given, when the displacement of the medium is perpendicular to the direction of motion of the wave, which is a longitudinal wave. The other can be imagined as a spring, where the motion of the medium is in a straight line with the direction of motion of the wave. Here, we focus on longitudinal waves.
 ![Pasted image 20250424204520.png|300](/img/user/OPTICS/Pasted%20image%2020250424204520.png)![Pasted image 20250424204533.png|375](/img/user/OPTICS/Pasted%20image%2020250424204533.png)
@@ -53,3 +53,7 @@ $$
 \end{align}
 $$
 
+# Reference
+[1]. 赵凯华. & 赵凯华. 新概念物理教程, 光学. (高等教育出版社, Bei jing, 2004).
+
+[2]. 普通物理学_程守洙江之永.
