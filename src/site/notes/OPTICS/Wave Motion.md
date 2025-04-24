@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-24T23:40:34.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-24T23:42:16.000+08:00"}
 ---
 
 # What is WAVES?
@@ -10,7 +10,7 @@ Obviously, there are two kinds of waves, one is the example of rope just given, 
 ## One-Dimensional Waves
 Taking the previously discussed rope as an example, imagine taking a picture of a desktop at a certain point in time; some part of him should show a specific waveform. This waveform can be described by taking the forward direction of the wave as the x-axis. Obviously, this waveform is related to both the time $t$ and the displacement $x$. If the energy loss in the transfer process is not considered, then this waveform does not change. 
 Now we try to describe this functional relationship $\psi=f(x,t)$. Binary variables are always less easy to deal with so we try to fix a value to make the discussion simple, time always passes so we try to fix $x$. Imagine if there is a new coordinate system moving along with this wave, then $\psi$ is only affected by time.
-![[Pasted image 20250424204748.png#pic_center|275]]
+![Pasted image 20250424204748.png|275](/img/user/OPTICS/Pasted%20image%2020250424204748.png)
 Clearly we have:
 $$\psi=f(x-vt)$$
 The symbols reflect the direction of motion. It is important to note here that $\psi$ as a whole represents the wave, not that the function value of a point on $f(x-vt)$ represents the wave, and that the function value represents the position of the prime at $(x,t)$. Obviously different waveforms correspond to different mappings $f$, so we cannot rely on the form $\psi=f(x,t)$ to describe the wave. Considering that both $x$ and $t$ are constants, we try to find the relation between $\psi$, $x$, and $t$. To make the computation easy we can make $x' = x-vt$ and then derive it by chain rule. In fact this is the same idea of fixing one variable as stated before. We have the following treatment:
@@ -19,7 +19,7 @@ From this, we get a way to describe the wave.
 ## Harmonic Waves
 The vibration of a spring can be described by the unit circle, and the sinusoidal waves derived from the unit circle are called harmonics. The unit circle reflects the amplitude and phase of the wave.
 And here, since the independent variable in sine $sin x$ is dimensionless and must be in radians or angles, and since $x$ in the fluctuation equation in our previous discussion represents the displacement of the wave, which has units, we must introduce a propagation number, $k$, that converts the displacement to radians or angles. Then we have$\psi(x,t)=A \sin k(x-vt)$
-![[Pasted image 20250424212012.png#pic_center|275]]
+![Pasted image 20250424212012.png|275](/img/user/OPTICS/Pasted%20image%2020250424212012.png)
 As mentioned earlier, harmonics can be derived from the rotation of a circle, and it is clear that the waveform repeats for every $2\pi$ of rotation, so we can define the range $(0,2\pi)$ to be a wave, and we define the displacement in this time to be the length of the wave, $\lambda$, then we have:
 $$\psi(x+\lambda,t)=\psi(x,t)\implies k=\frac{2\pi}{\lambda}$$
 In addition we consider the following parameters: the time of the process $\tau$, the speed of rotation of the circle $\omega$, the number of waves in 1 second $\nu$
@@ -36,7 +36,7 @@ According to Euler's formula, we have:
 $$\psi(x,t)=\mathrm{Re}(Ae^{i(kx-\omega t+\varepsilon)})$$
 # Plane Wave
 Consider such a group of lights, consisting of multiple waves that are parallel to each other and moving in the same direction. We can derive its specific direction from the wavefront, as we said at the beginning, light is a longitudinal wave, and the direction of motion of the medium is perpendicular to the direction of the wave. We connect the resulting surfaces with the same phase on each wave to become the wavefront, which is obviously the surface where the medium is moving, so the direction of the wave is perpendicular to this surface.
-![[Pasted image 20250424221701.png#pic_center|400]]
+![Pasted image 20250424221701.png|400](/img/user/Pasted%20image%2020250424221701.png)
 Considering again the previous role of $k$ in the case of a one-dimensional wave: to convert $x$ to phase, in fact, we have $kx=\vec{k}\vec{x}$, and $\vec{x}$ is the wave's direction of advancement, so $\vec{k}$ also has the role of indicating the wave's direction of advancement. So here, $\vec{k}$ should be perpendicular to the wavefront, then we have:
 $$\begin{align}
 &\vec{k}(\vec{r}-\vec{r_{0}})=0\implies k_{x}x+k_{y}y+k_{z}z=k_{x}x_{0}+k_{y}y_{0}+k_{z}z_{0}=a \\
