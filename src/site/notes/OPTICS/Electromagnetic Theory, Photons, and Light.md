@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-25T11:10:36.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-25T13:54:14.000+08:00"}
 ---
 
 # Basic Laws of Electromagnetic Theory
@@ -56,12 +56,13 @@ $$
 ## Maxwell's Equation
 Consider first the significance of dispersion and spin.
 $$\begin{cases}
-{\nabla}=\vec{i}\frac{\partial}{\partial x}+\vec{j}\frac{\partial}{\partial y}+\vec{k}\frac{\partial}{\partial z} \\ 
-{\nabla}\vec{E}=\frac{\partial E_{x}}{\partial x} \vec{i}+\frac{\partial E_{y}}{\partial y} \vec{j}+\frac{\partial E_{z}}{\partial z} \vec{k}\\
-{\nabla} \cdot \vec{E}=\frac{\partial E_{x}}{\partial x}+\frac{\partial E_{y}}{\partial y}+\frac{\partial E_{z}}{\partial z} \\
-{\nabla} \times \vec{E}=\left( \frac{\partial E_{z}}{\partial y} -\frac{\partial E_{y}}{\partial z}\right)+\left( \frac{\partial E_{x}}{\partial z} -\frac{\partial E_{z}}{\partial x}\right)+\left( \frac{\partial E_{y}}{\partial x} -\frac{\partial E_{x}}{\partial y}\right)
+\vec{\nabla}=\vec{i}\frac{\partial}{\partial x}+\vec{j}\frac{\partial}{\partial y}+\vec{k}\frac{\partial}{\partial z} \\ 
+\vec{\nabla}\vec{E}=\frac{\partial E_{x}}{\partial x} \vec{i}+\frac{\partial E_{y}}{\partial y} \vec{j}+\frac{\partial E_{z}}{\partial z} \vec{k}\\
+\vec{\nabla} \cdot \vec{E}=\frac{\partial E_{x}}{\partial x}+\frac{\partial E_{y}}{\partial y}+\frac{\partial E_{z}}{\partial z} \\
+\vec{\nabla} \times \vec{E}=\left( \frac{\partial E_{z}}{\partial y} -\frac{\partial E_{y}}{\partial z}\right)+\left( \frac{\partial E_{x}}{\partial z} -\frac{\partial E_{z}}{\partial x}\right)+\left( \frac{\partial E_{y}}{\partial x} -\frac{\partial E_{x}}{\partial y}\right)
 \end{cases}
 $$
+![e1c257cc7ac60933021dbb4a1799122.jpg|500](/img/user/e1c257cc7ac60933021dbb4a1799122.jpg)
 Now, let's orginize the conclusions previously reached:
 $$
 \begin{cases}
