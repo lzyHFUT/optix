@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-25T10:52:38.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-25T11:01:50.000+08:00"}
 ---
 
 # Basic Laws of Electromagnetic Theory
@@ -54,7 +54,14 @@ $$
 **This suggests that a time-varying magneto-electric field is accompanied by a magnetic field.**
 ![Pasted image 20250425103119.png|214](/img/user/Pasted%20image%2020250425103119.png)![Pasted image 20250425104921.png|250](/img/user/Pasted%20image%2020250425104921.png)
 ## Maxwell's Equation
-Let's start by organizing the conclusions previously reached:
+Consider first the significance of dispersion and spin.
+$$\begin{cases}
+\vec{\nabla}=\vec{i}\frac{\partial}{\partial x}+\vec{j}\frac{\partial}{\partial y}+\vec{k}\frac{\partial}{\partial z} \\
+\vec{\nabla} \cdot \vec{E}=\frac{\partial E_{x}}{\partial x}+\frac{\partial E_{y}}{\partial y}+\frac{\partial E_{z}}{\partial z} \\
+\vec{\nabla} \times \vec{E}=\left( \frac{\partial E_{z}}{\partial y} -\frac{\partial E_{y}}{\partial z}\right)+\left( \frac{\partial E_{x}}{\partial z} -\frac{\partial E_{z}}{\partial x}\right)+\left( \frac{\partial E_{y}}{\partial x} -\frac{\partial E_{x}}{\partial y}\right)
+\end{cases}
+$$
+Now, let's orginize the conclusions previously reached:
 $$
 \begin{cases}
 -\oint_{C}Edl={\iint_{S} \frac{{\partial\vec{B}}}{\partial t} d \vec{S}} \\
