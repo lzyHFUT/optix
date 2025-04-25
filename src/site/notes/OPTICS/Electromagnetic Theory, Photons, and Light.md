@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-25T10:11:36.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-25T10:52:38.000+08:00"}
 ---
 
 # Basic Laws of Electromagnetic Theory
@@ -29,3 +29,40 @@ $$
 Where $\epsilon$ is the capacitance, which characterizes the degree of penetration of the material by the electric field in which it is placed, the role of the formula is to make the left and right scales equal, $\epsilon_0$ is the vacuum capacitance, we can define the dielectric constant $K_{E} = \frac{\epsilon_0}{\epsilon}$, the magnitude of this value is related to the speed of light in the medium.
 ![Pasted image 20250425101046.png|350](/img/user/Pasted%20image%2020250425101046.png)![Pasted image 20250425101026.png|154](/img/user/Pasted%20image%2020250425101026.png)
 ## Electric Permittivity
+Similarly, let's discuss magnetic fields. It is worth noting that the magnetic field lines are always closed, while the electric field lines are not closed, so the electric field flux is not 0 when passing through a closed surface, while the magnetic field flux is 0. We have:
+$$\Phi_{M}=\unicode{8751}_{A} \vec{B}{d} \vec{S}=0$$
+## Ampère’s Circuital Law
+In analogy to the electric field, assuming that there exists a structure like an electron to excite the magnetic field, denote it as $q_{B}$, and that the magnetic field in the vicinity of an energized wire can be measured as $\frac{\mu_0 i}{2\pi r}$, and let $J$ be the current density, then we have:
+$$
+\begin{align}
+&q_{m}B \Sigma \Delta l=q_{m}B2\pi r=q_{m} \frac{\mu_{0} i}{2\pi r} 2\pi r \\ \\
+&\implies \oint \vec{B}{d} \vec{l}= \iint_{A} \mu_{0}\vec{J}{d}\vec{S} 
+\end{align}
+$$
+Similarly, $\mu_{0}$ is the free space magnetic permeability and we have: $K_{M}=\frac{\mu}{\mu_{0}}$
+However the above equation is not complete because the electric field also excites the magnetic field, which is evident when the capacitor is charging, with $J = 0$ and $B \ne 0$ between the capacitor poles, so we need to correct the above equation. The correction can be made by calculating the magnetic field excited by the electric field between the pole plates alone, or we can speak of the electric field as equivalent to some current density to make Eq. More harmoniously, let the area of the pole plates be $A$, and we have:
+$$
+\begin{align}
+&\begin{cases}
+E=\frac{Q}{\epsilon A} \\
+\frac{{\partial Q}}{\partial t}=i
+\end{cases}\implies  \frac{\partial \vec{E}}{\partial t}=\frac{i}{A} \\
+&\vec{J_{D}}=\frac{\partial \vec{E}}{\partial t}  \\
+&\implies \oint \vec{B}{d} \vec{l}= \mu \iint_{A} (\vec{J}+ \frac{\partial \vec{E}}{\partial t})   {d}\vec{S} 
+\end{align}
+$$
+**This suggests that a time-varying magneto-electric field is accompanied by a magnetic field.**
+![Pasted image 20250425103119.png|214](/img/user/Pasted%20image%2020250425103119.png)![Pasted image 20250425104921.png|250](/img/user/Pasted%20image%2020250425104921.png)
+## Maxwell's Equation
+Let's start by organizing the conclusions previously reached:
+$$
+\begin{cases}
+-\oint_{C}Edl={\iint_{S} \frac{{\partial\vec{B}}}{\partial t} d \vec{S}} \\
+\unicode{8751}_{A}\vec{E}{d}\vec{S}=\frac{1}{\epsilon_{0}}\iiint_{V}\rho dV \\
+\oint \vec{B}{d} \vec{l}= \iint_{A} \mu_{0}\vec{J}{d}\vec{S}  \\
+\oint \vec{B}{d} \vec{l}= \mu \iint_{A} (\vec{J}+ \frac{\partial \vec{E}}{\partial t})   {d}\vec{S} 
+\end{cases}\implies 
+\begin{cases}
+
+\end{cases}
+$$
