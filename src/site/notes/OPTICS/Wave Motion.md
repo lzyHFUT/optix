@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-24T23:42:16.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-25T09:39:02.000+08:00"}
 ---
 
 # What is WAVES?
 According to books on the subject, waves can be thought of as a means of transferring energy[1]or as interactions between particle[2]. We can simply imagine a scenario where a rope is jiggled up and down, and because the two neighboring masses are closely connected, the first mass falls while driving the second mass, and so on, and the motion is gradually transferred to the farther side, a process accompanied by the transfer of energy. Clearly, the wave is a self-sustaining perturbation in the medium, **and we can know that the perturbation moves forward and the medium does not move forward**.
 # How to Descirbe?
-Obviously, there are two kinds of waves, one is the example of rope just given, when the displacement of the medium is perpendicular to the direction of motion of the wave, which is a longitudinal wave. The other can be imagined as a spring, where the motion of the medium is in a straight line with the direction of motion of the wave. Here, we focus on longitudinal waves.
+Obviously, there are two kinds of waves, one is the rope example just given, the displacement of the medium is perpendicular to the direction of motion of the wave, this is a longitudinal wave, light is a longitudinal wave. The other can be imagined as a spring, the direction of motion of the medium is in a straight line with the direction of motion of the wave, which is a transverse wave. Here, we will focus on longitudinal waves.
 ![Pasted image 20250424204520.png|300](/img/user/OPTICS/Pasted%20image%2020250424204520.png)![Pasted image 20250424204533.png|375](/img/user/OPTICS/Pasted%20image%2020250424204533.png)
 ## One-Dimensional Waves
 Taking the previously discussed rope as an example, imagine taking a picture of a desktop at a certain point in time; some part of him should show a specific waveform. This waveform can be described by taking the forward direction of the wave as the x-axis. Obviously, this waveform is related to both the time $t$ and the displacement $x$. If the energy loss in the transfer process is not considered, then this waveform does not change. 
@@ -36,7 +36,7 @@ According to Euler's formula, we have:
 $$\psi(x,t)=\mathrm{Re}(Ae^{i(kx-\omega t+\varepsilon)})$$
 # Plane Wave
 Consider such a group of lights, consisting of multiple waves that are parallel to each other and moving in the same direction. We can derive its specific direction from the wavefront, as we said at the beginning, light is a longitudinal wave, and the direction of motion of the medium is perpendicular to the direction of the wave. We connect the resulting surfaces with the same phase on each wave to become the wavefront, which is obviously the surface where the medium is moving, so the direction of the wave is perpendicular to this surface.
-![Pasted image 20250424221701.png|400](/img/user/Pasted%20image%2020250424221701.png)
+![Pasted image 20250424221701.png|400](/img/user/OPTICS/Pasted%20image%2020250424221701.png)
 Considering again the previous role of $k$ in the case of a one-dimensional wave: to convert $x$ to phase, in fact, we have $kx=\vec{k}\vec{x}$, and $\vec{x}$ is the wave's direction of advancement, so $\vec{k}$ also has the role of indicating the wave's direction of advancement. So here, $\vec{k}$ should be perpendicular to the wavefront, then we have:
 $$\begin{align}
 &\vec{k}(\vec{r}-\vec{r_{0}})=0\implies k_{x}x+k_{y}y+k_{z}z=k_{x}x_{0}+k_{y}y_{0}+k_{z}z_{0}=a \\
@@ -45,7 +45,7 @@ $$\begin{align}
 $$
 
 
-![Pasted image 20250424224211.png|250](/img/user/Pasted%20image%2020250424224211.png)![Pasted image 20250424224548.png|325](/img/user/Pasted%20image%2020250424224548.png)
+![Pasted image 20250424224211.png|325](/img/user/OPTICS/Pasted%20image%2020250424224211.png)![Pasted image 20250424224548.png|375](/img/user/OPTICS/Pasted%20image%2020250424224548.png)
 It can be seen that $k_{x},k_{y},k_{z}$ indicate the direction of propagation.And obviously at this point we have:
 $$
 \begin{align}
