@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/Weekly reading/Journal of Lightwave Technology; Wavelength Selective Switch; ROADM/","dgPassFrontmatter":true,"created":"2025-04-25T22:27:07.540+08:00","updated":"2025-04-26T14:18:32.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/Weekly reading/Journal of Lightwave Technology; Wavelength Selective Switch; ROADM/","dgPassFrontmatter":true,"created":"2025-04-25T22:27:07.540+08:00","updated":"2025-04-26T21:47:14.000+08:00"}
 ---
 
 - M. A. F. Roelens et al., “Dispersion Trimming in a Reconfigurable Wavelength Selective Switch,” Journal of Lightwave Technology, vol. 26, no. 1, pp. 73–78, Jan. 2008, doi: [10.1109/JLT.2007.912148](https://doi.org/10.1109/JLT.2007.912148).
@@ -42,8 +42,7 @@ $$\begin{cases}
 \end{cases}\implies \tau=-\frac{\lambda^2}{2\pi c}\frac{d\phi}{dx} \frac{dx}{d\lambda}$$
 $D=\frac{d\lambda}{dx}$ is the dispersion on the x-axis of the LCOS. It can be seen that the delay depends on the wavelength and the position of $x$.
 # Results
-![|330](https://i.imgur.com/1Z7a0mF.png)
-![|340](https://i.imgur.com/1P69KgG.png)
+![|330](https://i.imgur.com/1Z7a0mF.png)![|340](https://i.imgur.com/1P69KgG.png)
 
 Obviously, compared with the previous solution using VIPA, it can be more finely controlled.
 # Discussion
