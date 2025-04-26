@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-26T14:09:10.000+08:00"}
+{"dg-publish":true,"permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-26T15:18:24.000+08:00"}
 ---
 
 # Basic Laws of Electromagnetic Theory
@@ -78,10 +78,14 @@ $$
 \begin{cases}
 \nabla \times  \vec{E}=-\frac{{\partial B}}{\partial t} \\
 \nabla \cdot \vec{E}=\frac{\rho}{\varepsilon_{0}} \\
-\nabla \cdot \vec{E}=0\\
+\nabla \cdot \vec{B}=0\\
 \nabla \times  \vec{B}=\left( \mu  \vec{J}+\frac{{\partial  \vec{E}}}{\partial t} \right)
 \end{cases}
 $$
+# Electromagnetic Waves
+The charge excites the electric field in space, and when the charge is perturbed, the electric field changes and excites the magnetic field, and since the electric field excited by the charge does not vary uniformly with time, the magnetic field excited by it also does not vary uniformly with time, and thus the electric field is excited again, and the above process is repeated again and again, and the conduction is carried out to the farther side, so that the perturbation is carried through the space from this point of the charge, and that the medium does not take part in this conduction, which is very much similar to that of the wave which we have before described as a wave. In fact, we can also derive an electromagnetic wave by means of Maxwell's system of equations, and we can obtain the speed of this wave as $\frac{1}{\mu \varepsilon_{0}}$, which corresponds to the speed of light, i.e., light may be an electromagnetic wave.
+![](https://i.imgur.com/tvxwnnp.jpeg)
+
 # Reference
 [1]【微積分-李柏堅-Youtube】https://youtu.be/zKNNGHIju14?si=LqoFFjpJFb4SpW-a
 [2]【【nabla算子】与梯度、散度、旋度-哔哩哔哩】 https://b23.tv/XIwgBMl
