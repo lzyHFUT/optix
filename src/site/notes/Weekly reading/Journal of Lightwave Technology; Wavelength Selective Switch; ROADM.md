@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/Weekly reading/Journal of Lightwave Technology; Wavelength Selective Switch; ROADM/","dgPassFrontmatter":true,"created":"2025-04-25T22:27:07.540+08:00","updated":"2025-04-26T13:47:56.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/Weekly reading/Journal of Lightwave Technology; Wavelength Selective Switch; ROADM/","dgPassFrontmatter":true,"created":"2025-04-25T22:27:07.540+08:00","updated":"2025-04-26T14:18:32.000+08:00"}
 ---
 
 - M. A. F. Roelens et al., “Dispersion Trimming in a Reconfigurable Wavelength Selective Switch,” Journal of Lightwave Technology, vol. 26, no. 1, pp. 73–78, Jan. 2008, doi: [10.1109/JLT.2007.912148](https://doi.org/10.1109/JLT.2007.912148).
@@ -12,15 +12,14 @@
 - **MEMS:** This is achieved by controlling dispersion, which can be achieved through devices such as  MEMS, etc[5].
 - **SLM+VIPA**
 	- **VIPA:**[6] Virtual Imaging Phased Array is an optical structure in which the angle of the output beam varies with the wavelength, and the return angle of light of different wavelengths is different, which generates a delay, and the relationship between the delay and the wavelength depends on the shape of the mirror C. The desired delay is achieved by designing the mirror shape C.
-		- ![|425](https://i.imgur.com/9Jgskqi.png)
-![|375](https://i.imgur.com/VMlpwk7.png)
+	- The shape of the mirror is $c(y)=\frac{K}{8f^4}y^4+\frac{{K\Theta}}{2f^3}y^3+\frac{{K\Theta^2-(f-a)}}{2f^2}y^2$, and the slope of the graph can be represented by $-\frac{2n^4K}{c\lambda}$. The final system is designed to be regulated by adding a grating diffraction, where different wavelengths arrive at different positions after diffraction, and different positions have different shapes.
+	- **SLM:** [7]First use VIPA to spectralize according to the wavelength, then use SLM to adjust the reflection angle.
 
-- The shape of the mirror is $c(y)=\frac{K}{8f^4}y^4+\frac{{K\Theta}}{2f^3}y^3+\frac{{K\Theta^2-(f-a)}}{2f^2}y^2$, and the slope of the graph can be represented by $-\frac{2n^4K}{c\lambda}$. The final system is designed to be regulated by adding a grating diffraction, where different wavelengths arrive at different positions after diffraction, and different positions have different shapes.
-![|350](https://i.imgur.com/SLUoIZR.png)
-![|350](https://i.imgur.com/DgN5tlp.png)
+![|350](https://i.imgur.com/9Jgskqi.png)![|350](https://i.imgur.com/VMlpwk7.png)
 
-- **SLM:** [7]First use VIPA to spectralize according to the wavelength, then use SLM to adjust the reflection angle.
-- ![|400](https://i.imgur.com/AYqzs1o.png)
+![|325](https://i.imgur.com/SLUoIZR.png)![|350](https://i.imgur.com/DgN5tlp.png)
+
+![|500](https://i.imgur.com/AYqzs1o.png)
 ## The solution to this article
 Using LCOS as a Wavelength Selection Switch
 ![|400](https://i.imgur.com/MnnRqXD.png)

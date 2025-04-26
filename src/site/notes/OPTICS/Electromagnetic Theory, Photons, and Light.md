@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-26T13:05:28.000+08:00"}
+{"dg-publish":true,"permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-26T14:09:10.000+08:00"}
 ---
 
 # Basic Laws of Electromagnetic Theory
@@ -10,8 +10,7 @@ $$\begin{align}
 &\Phi_{M}=BA\cos \theta \\
 &emf=-\frac{{d\Phi }}{dt}
 \end{align}$$
-![|325](https://i.imgur.com/JikVAYW.png)
-![|425](https://i.imgur.com/OUv9Ikq.png)
+![|250](https://i.imgur.com/JikVAYW.png)![|275](https://i.imgur.com/OUv9Ikq.png)
 
 According to the concept of electromotive force, from the perspective of energy, to analyze the charge and electric field, we have:
 $$
@@ -29,8 +28,7 @@ $$
 \unicode{8751}_{A}\vec{E}{d}\vec{S}=\frac{1}{\epsilon_{0}}\Sigma q=\frac{1}{\epsilon_{0}}\iiint_{V}\rho dV
 $$
 Where $\epsilon$ is the capacitance, which characterizes the degree of penetration of the material by the electric field in which it is placed, the role of the formula is to make the left and right scales equal, $\epsilon_0$ is the vacuum capacitance, we can define the dielectric constant $K_{E} = \frac{\epsilon_0}{\epsilon}$, the magnitude of this value is related to the speed of light in the medium.
-![|325](https://i.imgur.com/Y0IHL4b.png)
-![|279](https://i.imgur.com/E601W1w.png)
+![|325](https://i.imgur.com/Y0IHL4b.png)![|154](https://i.imgur.com/E601W1w.png)
 
 ## Electric Permittivity
 Similarly, let's discuss magnetic fields. It is worth noting that the magnetic field lines are always closed, while the electric field lines are not closed, so the electric field flux is not 0 when passing through a closed surface, while the magnetic field flux is 0. We have:
@@ -56,8 +54,7 @@ E=\frac{Q}{\epsilon A} \\
 \end{align}
 $$
 **This suggests that a time-varying magneto-electric field is accompanied by a magnetic field.**
-![|314](https://i.imgur.com/VqpMSeJ.png)
-![|375](https://i.imgur.com/9jDLYdn.png)
+![|214](https://i.imgur.com/VqpMSeJ.png)![|275](https://i.imgur.com/9jDLYdn.png)
 
 ## Maxwell's Equation
 Consider first the significance of dispersion and spin.
@@ -85,8 +82,6 @@ $$
 \nabla \times  \vec{B}=\left( \mu  \vec{J}+\frac{{\partial  \vec{E}}}{\partial t} \right)
 \end{cases}
 $$
-
-
 # Reference
 [1]【微積分-李柏堅-Youtube】https://youtu.be/zKNNGHIju14?si=LqoFFjpJFb4SpW-a
 [2]【【nabla算子】与梯度、散度、旋度-哔哩哔哩】 https://b23.tv/XIwgBMl

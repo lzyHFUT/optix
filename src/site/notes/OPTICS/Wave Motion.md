@@ -1,18 +1,16 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-26T13:03:34.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/OPTICS/Wave Motion/","dgPassFrontmatter":true,"created":"2025-04-23T21:00:53.350+08:00","updated":"2025-04-26T14:11:22.000+08:00"}
 ---
 
 # What is WAVES?
 According to books on the subject, waves can be thought of as a means of transferring energy[1]or as interactions between particle[2]. We can simply imagine a scenario where a rope is jiggled up and down, and because the two neighboring masses are closely connected, the first mass falls while driving the second mass, and so on, and the motion is gradually transferred to the farther side, a process accompanied by the transfer of energy. Clearly, the wave is a self-sustaining perturbation in the medium, **and we can know that the perturbation moves forward and the medium does not move forward**.
 # How to Descirbe?
 Obviously, there are two kinds of waves, one is the rope example just given, the displacement of the medium is perpendicular to the direction of motion of the wave, this is a longitudinal wave, light is a longitudinal wave. The other can be imagined as a spring, the direction of motion of the medium is in a straight line with the direction of motion of the wave, which is a transverse wave. Here, we will focus on longitudinal waves.
-![|400](https://i.imgur.com/EbV4h1w.png)
-![|450](https://i.imgur.com/wKM8rxB.png)
-
+![|250](https://i.imgur.com/EbV4h1w.png)![300|300](https://i.imgur.com/wKM8rxB.png)
 ## One-Dimensional Waves
 Taking the previously discussed rope as an example, imagine taking a picture of a desktop at a certain point in time; some part of him should show a specific waveform. This waveform can be described by taking the forward direction of the wave as the x-axis. Obviously, this waveform is related to both the time $t$ and the displacement $x$. If the energy loss in the transfer process is not considered, then this waveform does not change. 
 Now we try to describe this functional relationship $\psi=f(x,t)$. Binary variables are always less easy to deal with so we try to fix a value to make the discussion simple, time always passes so we try to fix $x$. Imagine if there is a new coordinate system moving along with this wave, then $\psi$ is only affected by time.
-![|350](https://i.imgur.com/TD3K37Z.png)
+![|325](https://i.imgur.com/TD3K37Z.png)
 
 Clearly we have:
 $$\psi=f(x-vt)$$
@@ -48,8 +46,7 @@ $$\begin{align}
 &\implies \psi (\vec{r})=Ae^{i \vec{k} \vec{r}}
 \end{align}
 $$
-![|325](https://i.imgur.com/Wkx31eS.png)
-![|400](https://i.imgur.com/A1CNDXW.png)
+![|300](https://i.imgur.com/Wkx31eS.png)![|350](https://i.imgur.com/A1CNDXW.png)
 
 It can be seen that $k_{x},k_{y},k_{z}$ indicate the direction of propagation.And obviously at this point we have:
 $$
@@ -61,5 +58,4 @@ $$
 
 # Reference
 [1]. 赵凯华. & 赵凯华. 新概念物理教程, 光学. (高等教育出版社, Bei jing, 2004).
-
 [2]. 普通物理学_程守洙江之永.
