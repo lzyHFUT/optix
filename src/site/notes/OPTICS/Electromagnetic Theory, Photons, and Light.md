@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-26T15:18:24.000+08:00"}
+{"dg-publish":true,"permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-27T20:44:20.000+08:00"}
 ---
 
 # Basic Laws of Electromagnetic Theory
@@ -86,6 +86,42 @@ $$
 The charge excites the electric field in space, and when the charge is perturbed, the electric field changes and excites the magnetic field, and since the electric field excited by the charge does not vary uniformly with time, the magnetic field excited by it also does not vary uniformly with time, and thus the electric field is excited again, and the above process is repeated again and again, and the conduction is carried out to the farther side, so that the perturbation is carried through the space from this point of the charge, and that the medium does not take part in this conduction, which is very much similar to that of the wave which we have before described as a wave. In fact, we can also derive an electromagnetic wave by means of Maxwell's system of equations, and we can obtain the speed of this wave as $\frac{1}{\mu \varepsilon_{0}}$, which corresponds to the speed of light, i.e., light may be an electromagnetic wave.
 ![](https://i.imgur.com/tvxwnnp.jpeg)
 
+## Transverse Waves
+Electromagnetic waves are transverse waves, and let them be plane waves, the electromagnetic field can be represented as: $\vec{E}=\vec{E}_{0}e^{i(\vec{k} \cdot \vec{r} -\omega t});\ \ \vec{B}=\vec{B}_{0}e^{i(\vec{k} \cdot \vec{r} -\omega t)};$. According to the system of Maxwell's equations in vacuum, we have:
+$$
+\begin{align}
+&\vec{\nabla} \cdot f\vec{A}=\vec{A}\nabla f+f\vec{\nabla}\cdot \vec{A}\implies \vec{\nabla} \cdot \vec{E}=i\nabla(\vec{k}\vec{r}-\omega t)\vec{E_{0}}e^{i(\vec{k}\cdot \vec{r}-\omega t)}\vec{E}=i\vec{k}\vec{E_{0}}e^{i(\vec{k}\cdot \vec{r}-\omega t)}\\
+&\implies\begin{cases}
+\vec{\nabla} \cdot \vec{E} &= i\vec{k} \cdot\vec{{E}_0} e^{i(\vec{k} \cdot \vec{r} - \omega t)} = 0 \implies \vec{k} \cdot   \vec{E_0} = 0, \\
+
+\vec{\nabla} \cdot \vec{B} &= i\vec{k} \cdot\vec{{B}_0} e^{i(\vec{k} \cdot \vec{r}  - \omega t)} = 0 \implies \vec{k} \cdot   \vec{B_0} = 0, \\
+\end{cases}
+\end{align}
+$$
+The direction of the wave vector is perpendicular to the direction of the electric field, i.e. the direction of propagation is perpendicular to the direction of vibration. And further we have:
+$$
+\begin{align}
+&\vec{\nabla} \times f\vec{A}=f(\nabla \times \vec{A})+(\vec{\nabla}f)\times\vec{A}\implies \vec{\nabla} \times \vec{E}=i\vec{k}\times\vec{E_{0}}e^{i(\vec{k}\cdot \vec{r}-\omega t)} \\
+&\implies \vec{\nabla} \times \vec{E}=i\vec{k}\times\vec{E_{0}}e^{i(\vec{k}\cdot \vec{r}-\omega t)}=-\frac{{\partial \vec{B}}}{\partial t}=\omega \vec{B_{0}}e^{i(\vec{k}\cdot \vec{r}-\omega t)}\implies i \vec{k} \times\vec{E_{0}}=\omega \vec{B_{0}} \\
+&i \vec{k} \times\vec{B_{0}}=\mu \varepsilon_{0} \omega \vec{E_{0}} \\
+&\implies \begin{cases}
+|i \vec{k} \times\vec{B_{0}}|=kE_{0}=\omega B_{0} \\
+|i \vec{k} \times\vec{B_{0}}|=kB_{0}=\mu \varepsilon_{0} \omega E_{0} 
+\end{cases}\implies \frac{E_{0}}{B_{0}}=c
+\end{align}
+$$
+Also by the cross product we know that the electric field is perpendicular to the magnetic field.
+![|359](https://i.imgur.com/1ayJZEs.png)![|291](https://i.imgur.com/hxw3iUE.png)
+
+
+# Energy and Momentum
+To derive the energy density of an electric field using a capacitor, let the area of the pole plate $A$, the capacitance be $C$,the spacing be d, the voltage be $U$, and $C = \frac{{\varepsilon_{0} A}}{d}$. The magnetic field energy density is calculated from the inductance containing the current I. The cross-sectional area is $A$, the length is $l$, and there are $n$ turns wound per unit length, $L=\mu_{0}^2nIA$, $B = \mu_{0}nI$. Then we have:
+$$
+\begin{align}
+&u_{E}=\frac{\frac{1}{2}CU^2}{Ad}=\frac{\frac{1}{2} \frac{{\varepsilon_{0} A}}{d}(Ed)^2}{Ad}\implies u_{E}=\frac{1}{2}\varepsilon_{0} E^2 \\
+&u_{B}=\frac{\frac{1}{2}LI^2}{Al}=\frac{1}{2}\mu_{0}^2nIA {\frac{B}{\mu_{0}n}}^2\implies u_{B}=\frac{1}{2\mu_{0}}B^2
+\end{align}
+$$
 # Reference
 [1]【微積分-李柏堅-Youtube】https://youtu.be/zKNNGHIju14?si=LqoFFjpJFb4SpW-a
 [2]【【nabla算子】与梯度、散度、旋度-哔哩哔哩】 https://b23.tv/XIwgBMl
