@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/Weekly reading/Journal of Lightwave Technology; Wavelength Selective Switch; ROADM/","dgPassFrontmatter":true,"created":"2025-04-25T22:27:07.540+08:00","updated":"2025-04-26T21:47:14.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/Weekly reading/Journal of Lightwave Technology; Wavelength Selective Switch; ROADM/","dgPassFrontmatter":true,"created":"2025-04-25T22:27:07.540+08:00","updated":"2025-04-28T16:51:38.000+08:00"}
 ---
 
 - M. A. F. Roelens et al., “Dispersion Trimming in a Reconfigurable Wavelength Selective Switch,” Journal of Lightwave Technology, vol. 26, no. 1, pp. 73–78, Jan. 2008, doi: [10.1109/JLT.2007.912148](https://doi.org/10.1109/JLT.2007.912148).
@@ -17,7 +17,7 @@
 
 ![|350](https://i.imgur.com/9Jgskqi.png)![|350](https://i.imgur.com/VMlpwk7.png)
 
-![|325](https://i.imgur.com/SLUoIZR.png)![|350](https://i.imgur.com/DgN5tlp.png)
+![|325](https://i.imgur.com/SLUoIZR.png) ![|350](https://i.imgur.com/DgN5tlp.png)
 
 ![|500](https://i.imgur.com/AYqzs1o.png)
 ## The solution to this article
@@ -44,7 +44,7 @@ $D=\frac{d\lambda}{dx}$ is the dispersion on the x-axis of the LCOS. It can be s
 # Results
 ![|330](https://i.imgur.com/1Z7a0mF.png)![|340](https://i.imgur.com/1P69KgG.png)
 
-Obviously, compared with the previous solution using VIPA, it can be more finely controlled.
+Obviously, compared with the previous solution using VIPA, it can be more finely controlled.[@shrivastavDesignConsiderationsLimitations2023]
 # Discussion
 This article is relatively old, most of the solutions have been replaced by digital micromirror devices (DMD), and we can find some reasons for using DMDs instead of LCOS in the related literature [9-11]. Moreover, the application point of this article is only in optical networks, and in fact similar techniques can be applied in more directions such as [11-12].
 # Reference

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-27T20:44:20.000+08:00"}
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/OPTICS/Electromagnetic Theory, Photons, and Light/","dgPassFrontmatter":true,"created":"2025-04-25T08:46:34.470+08:00","updated":"2025-04-28T17:02:08.000+08:00"}
 ---
 
 # Basic Laws of Electromagnetic Theory
@@ -28,7 +28,7 @@ $$
 \unicode{8751}_{A}\vec{E}{d}\vec{S}=\frac{1}{\epsilon_{0}}\Sigma q=\frac{1}{\epsilon_{0}}\iiint_{V}\rho dV
 $$
 Where $\epsilon$ is the capacitance, which characterizes the degree of penetration of the material by the electric field in which it is placed, the role of the formula is to make the left and right scales equal, $\epsilon_0$ is the vacuum capacitance, we can define the dielectric constant $K_{E} = \frac{\epsilon_0}{\epsilon}$, the magnitude of this value is related to the speed of light in the medium.
-![|325](https://i.imgur.com/Y0IHL4b.png)![|154](https://i.imgur.com/E601W1w.png)
+![|325](https://i.imgur.com/Y0IHL4b.png) ![|179](https://i.imgur.com/E601W1w.png)
 
 ## Electric Permittivity
 Similarly, let's discuss magnetic fields. It is worth noting that the magnetic field lines are always closed, while the electric field lines are not closed, so the electric field flux is not 0 when passing through a closed surface, while the magnetic field flux is 0. We have:
@@ -54,7 +54,7 @@ E=\frac{Q}{\epsilon A} \\
 \end{align}
 $$
 **This suggests that a time-varying magneto-electric field is accompanied by a magnetic field.**
-![|214](https://i.imgur.com/VqpMSeJ.png)![|275](https://i.imgur.com/9jDLYdn.png)
+![|214](https://i.imgur.com/VqpMSeJ.png) ![|275](https://i.imgur.com/9jDLYdn.png)
 
 ## Maxwell's Equation
 Consider first the significance of dispersion and spin.
@@ -111,7 +111,7 @@ $$
 \end{align}
 $$
 Also by the cross product we know that the electric field is perpendicular to the magnetic field.
-![|359](https://i.imgur.com/1ayJZEs.png)![|291](https://i.imgur.com/hxw3iUE.png)
+![|334](https://i.imgur.com/1ayJZEs.png)![|291](https://i.imgur.com/hxw3iUE.png)
 
 
 # Energy and Momentum
@@ -119,8 +119,14 @@ To derive the energy density of an electric field using a capacitor, let the are
 $$
 \begin{align}
 &u_{E}=\frac{\frac{1}{2}CU^2}{Ad}=\frac{\frac{1}{2} \frac{{\varepsilon_{0} A}}{d}(Ed)^2}{Ad}\implies u_{E}=\frac{1}{2}\varepsilon_{0} E^2 \\
-&u_{B}=\frac{\frac{1}{2}LI^2}{Al}=\frac{1}{2}\mu_{0}^2nIA {\frac{B}{\mu_{0}n}}^2\implies u_{B}=\frac{1}{2\mu_{0}}B^2
+&u_{B}=\frac{\frac{1}{2}LI^2}{Al}=\frac{1}{2}\mu_{0}^2nIA {\frac{B}{\mu_{0}n}}^2\implies u_{B}=\frac{1}{2\mu_{0}}B^2 \\
+&E=cB\implies u_{E}=u_{B} \\
+&\implies u=u_{E}+u_{B}=\varepsilon EB=\frac{1}{\mu_{0}}EB
 \end{align}
+$$
+We can further calculate the energy flow of electric and magnetic fields in space, the electromagnetic field flows in space, obviously this process is accompanied by the flow of energy, we can calculate the value of energy per unit volume in space using the energy that passes through the area $A$ during the time interval $t$:
+$$
+
 $$
 # Reference
 [1]【微積分-李柏堅-Youtube】https://youtu.be/zKNNGHIju14?si=LqoFFjpJFb4SpW-a
