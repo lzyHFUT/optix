@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/Weekly reading/OLT; Beam Shaping; Mathematical Model/","dgPassFrontmatter":true,"created":"2025-04-29T22:47:23.450+08:00","updated":"2025-04-29T23:54:38.000+08:00"}
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Weekly reading/OLT; Beam Shaping; Mathematical Model/","dgPassFrontmatter":true,"created":"2025-04-29T22:47:23.450+08:00","updated":"2025-04-30T00:08:22.000+08:00"}
 ---
 
 - Bremer, S. J., Aarts, R. G., & Römer, G. W. R. (2025). Mathematical analysis of dynamic high power laser beam shaping using Galvanometer Scanners or Deformable Mirrors. _Optics & Laser Technology_, _183_, 112356.
@@ -7,11 +7,12 @@
 ## What is Beam Shaping?
 Adjusting the spatial intensity distribution and phase characteristics of laser beams[1-2], which vary greatly in performance in metal 3D printing[3], can be achieved by devices such as DM and GS.
 - **DM:** The deformable mirror consists of a flexible glass film and an electric actuator, which is manipulated to reflect light by stretching the film to change its curvature[4].
-- ![|300](https://i.imgur.com/9obLdqs.png)![|375](https://i.imgur.com/a7y8Wc0.png)
+- ![|275](https://i.imgur.com/9obLdqs.png)![|375](https://i.imgur.com/a7y8Wc0.png)
 
--  **GS:**
-
-
+-  **GS:** Control the angle of rotation of the mirror to achieve a different angle of reflection of light, thereby regulating the laser, can be achieved through the $x$, $y$ direction of the mirror on the plane of the control.
+- ![|347](https://i.imgur.com/Zxkk3iM.png)![|278](https://i.imgur.com/QdMfVw3.png)
+# How to rate beam shaping?
+## Resolution of beam shaping
 
 
 # Reference
