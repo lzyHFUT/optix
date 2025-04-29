@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/OPTICS/Electromagnetic Theory Part II/","dgPassFrontmatter":true,"created":"2025-04-28T17:20:59.090+08:00","updated":"2025-04-28T20:29:42.000+08:00"}
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/OPTICS/Electromagnetic Theory Part II/","dgPassFrontmatter":true,"created":"2025-04-28T17:20:59.090+08:00","updated":"2025-04-29T17:25:52.000+08:00"}
 ---
 
 # Energy and Momentum
@@ -43,3 +43,21 @@ The irradiance of a point light source is inversely proportional to the square o
 $$
 \frac{E}{S}=\frac{I\Omega t}{4\pi r^2}=\frac{4\pi It}{4\pi r^2}\implies \frac{E}{S} \propto \frac{1}{r^2}
 $$
+# Photons
+Photons are stable, elementary particles with zero mass and no charge. Photons belong to bosons, while electrons belong to fermions, and Einstein believed that the electromagnetic field is quantized and consists of a single photon. Different plane monochromatic waves represent different states of the photon, and the average photon flux can be calculated by the following equation:
+$$
+\begin{align}
+\Phi=\frac{AI}{h\nu_{0}}=\frac{P}{h\nu_{0}}
+\end{align}
+$$
+$\frac{I}{h\nu_{0}}$ is the average photon flux density, $A$ is the monochromatic light cross-section area, $P$ is the laser power.
+# Radiation Pressure and Momentum
+$$
+\begin{align}
+&\mathcal{P}=\frac{S(t)}{c}\implies<\mathcal{P}>_{T}=\frac{I}{c} \\
+&A\mathcal{P}=\frac{\Delta p}{\Delta t}=\frac{p_{V}c\Delta tA}{\Delta t} \implies p_{V}=\frac{S}{c^2}
+\end{align}
+$$
+$p_{V}$ is the bulk density of electromagnetic momentum.
+# Radiation
+First of all, consider what kind of electrons radiate, obviously stationary electrons do not excite the magnetic field and do not radiate energy externally. The uniform velocity of the electron, if we change the coordinate system, and the electron together with the movement, and the uniform velocity of the electron is no different, and therefore also does not radiate externally. Therefore, only the non-uniformly moving electrons radiate energy externally.
