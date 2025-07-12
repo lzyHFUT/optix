@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/OPTICS/Electromagnetic Theory Part Ⅰ/","dgPassFrontmatter":true,"created":"2025-06-22T21:50:01.000+08:00","updated":"2025-04-28T17:22:28.000+08:00"}
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/OPTICS/Electromagnetic Theory Part Ⅰ/","dgPassFrontmatter":true,"created":"2025-06-22T21:39:33.000+08:00","updated":"2025-06-22T21:39:33.000+08:00"}
 ---
 
 # Basic Laws of Electromagnetic Theory

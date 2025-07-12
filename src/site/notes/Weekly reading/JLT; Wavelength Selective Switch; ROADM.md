@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"img-grid","permalink":"/Weekly reading/JLT; Wavelength Selective Switch; ROADM/","dgPassFrontmatter":true,"created":"2025-06-22T21:50:01.000+08:00","updated":"2025-04-29T22:52:38.000+08:00"}
+{"dg-publish":true,"cssclass":"img-grid","permalink":"/Weekly reading/JLT; Wavelength Selective Switch; ROADM/","dgPassFrontmatter":true,"created":"2025-06-22T21:39:32.000+08:00","updated":"2025-06-22T21:39:32.000+08:00"}
 ---
 
 - Roelens, M. A., Frisken, S., Bolger, J. A., Abakoumov, D., Baxter, G., Poole, S., & Eggleton, B. J. (2008). Dispersion trimming in a reconfigurable wavelength selective switch. _Journal of Lightwave Technology_, _26_(1), 73-78.

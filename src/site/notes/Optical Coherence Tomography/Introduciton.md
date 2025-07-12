@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Optical Coherence Tomography/Introduciton/","dgPassFrontmatter":true,"created":"2025-07-12T09:37:31.244+08:00","updated":"2025-07-12T15:01:14.679+08:00"}
+---
+
+# What is Optical Coherence Tomography?
+## Basic Understanding
+Optical Coherence Tomography (OCT) is a non-contact optical measurement that can precisely measure the distance, and is mainly used for imaging the laminated structure of objects. Currently, it can be divided into two types: time-domain (TD-OCT) and Fourier-domain (FD-OCT), with a resolution of 1-15 um and an imaging depth of about 2 mm, and FD-OCT can usually achieve higher resolution and signal-to-noise ratio[1-3].
+## How it Work?
+Now let's consider how an OCT system can make measurements, the simplest idea is to shine light on a sample and measure the intensity of the reflected light and the time difference between the two beams. This is essentially the same method as ultrasound measurements, but it is not applicable to optical measurements because the speed of light is far too fast to be measured by a machine with accurate time intervals. Of course, we can use femtosecond time-domain measurements to take advantage of this approach, but at a wavelength of $625nm$ the resolution of this approach is only $15\mu m$ [4], and the signal-to-noise ratio is far lower than that required for biological tissues.
+
+## Performance Indicators and Corresponding Determinants
+| index                 | factor             | magnitude        | expression                                                        |
+| --------------------- | ------------------ | ---------------- | ----------------------------------------------------------------- |
+| axial resolution      | bandwidth          | $1-15\mu m$      | $\Delta z=\frac{2\ln2}{\pi}  \frac{\lambda^2}{\Delta \lambda}$    |
+| imaging depth         | center wavelength  | $2mm$            | $\pm z_{max}=\pm   \frac{n_{0}\lambda_{0}^2}{4\delta_{s}\lambda}$ |
+| transverse resolution | numerical aperture | $5\mu m-20\mu m$ | $\delta x=\frac{4\lambda}{\pi}  \frac{f}{d}$                      |
+
+
+
+
+
+# Reference
+[1]Choma, M. A., Sarunic, M. V., Yang, C., & Izatt, J. A. (2003). Sensitivity advantage of swept source and Fourier domain optical coherence tomography. _Optics express_, _11_(18), 2183-2189.
+[2]Wojtkowski, M., Srinivasan, V. J., Ko, T. H., Fujimoto, J. G., Kowalczyk, A., & Duker, J. S. (2004). Ultrahigh-resolution, high-speed, Fourier domain optical coherence tomography and methods for dispersion compensation. _Optics express_, _12_(11), 2404-2422.
+[3]Leitgeb, R., Hitzenberger, C. K., & Fercher, A. F. (2003). Performance of fourier domain vs. time domain optical coherence tomography. _Optics express_, _11_(8), 889-894.
+[4]Fujimoto, J. G., De Silvestri, S., Ippen, E. P., Puliafito, C. A., Margolis, R., & Oseroff, A. (1986). Femtosecond optical ranging in biological systems. _Optics letters_, _11_(3), 150-152.

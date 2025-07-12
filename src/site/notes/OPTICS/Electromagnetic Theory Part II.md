@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/OPTICS/Electromagnetic Theory Part II/","dgPassFrontmatter":true,"created":"2025-06-22T21:50:01.000+08:00","updated":"2025-04-29T17:25:52.000+08:00"}
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/OPTICS/Electromagnetic Theory Part II/","dgPassFrontmatter":true,"created":"2025-06-22T21:39:32.000+08:00","updated":"2025-06-22T21:39:32.000+08:00"}
 ---
 
 # Energy and Momentum
