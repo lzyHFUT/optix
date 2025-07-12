@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Optical Coherence Tomography/Introduciton/","dgPassFrontmatter":true,"created":"2025-07-12T09:37:31.244+08:00","updated":"2025-07-12T15:57:29.895+08:00"}
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Optical Coherence Tomography/Introduciton/","dgPassFrontmatter":true,"created":"2025-07-12T09:37:31.244+08:00","updated":"2025-07-12T16:10:21.521+08:00"}
 ---
 
 # What is Optical Coherence Tomography?
@@ -7,7 +7,7 @@
 Optical Coherence Tomography (OCT) is a non-contact optical measurement that can precisely measure the distance, and is mainly used for imaging the laminated structure of objects. Currently, it can be divided into two types: time-domain (TD-OCT) and Fourier-domain (FD-OCT), with a resolution of 1-15 um and an imaging depth of about 2 mm, and FD-OCT can usually achieve higher resolution and signal-to-noise ratio[1-3].
 ## How it Work?
 Now let's consider how an OCT system can make measurements, the simplest idea is to shine light on a sample and measure the intensity of the reflected light and the time difference between the two beams. This is essentially the same method as ultrasound measurements, but it is not applicable to optical measurements because the speed of light is far too fast to be measured by a machine with accurate time intervals. Of course, we can use femtosecond time-domain measurements to take advantage of this approach, but at a wavelength of $625nm$ the resolution of this approach is only $15\mu m$ [4], and the signal-to-noise ratio is far lower than that required for biological tissues.
-![250|275](https://i.imgur.com/FnGytI4.png)![375|400](https://i.imgur.com/UCvL5nD.png)
+![250|300](https://i.imgur.com/FnGytI4.png)![375|400](https://i.imgur.com/UCvL5nD.png)
 Although the discussion just now did not lead to a general principle of measurement, we note that both ultrasound imaging and femtosecond measurements are based on measuring the intensity of reflected light as well as the time difference obtained. Since the speed of light is essentially constant, the time difference is equivalent to the optical range difference. And with the combination of light-range difference and intensity, we think of interference-which can be thought of as a phenomenon of amplitude modulation by light-range difference.
 Further, we know that interference is the interaction between fields, which can be measured by interferometers, Michelson interferometers, Mach Zender interferometers, ..., there are already too many classical interferometer structures to choose from. It is worth noting that interferometers are used to measure the interaction between the electric fields of two beams of light, a process that is not actually visible and requires the use of components such as CCDs to convert the electric field into light intensity.
 Next let's consider some details on how to utilize interferometry? We have chosen to use a Michelson interferometer and based on the figure below we have the following derivation:![](https://i.imgur.com/ypI0lD7.png)
@@ -22,6 +22,7 @@ $$
 $$
 **A suitable broadband light source is selected and the reference arm is configured with a motor for scanning, so that when interference occurs, the two arms are approximately equidistant from each other.**
 ## Disadvantage and Improve
+
 
 ## Performance Indicators and Corresponding Determinants
 | index                 | factor             | magnitude        | expression                                                        |
