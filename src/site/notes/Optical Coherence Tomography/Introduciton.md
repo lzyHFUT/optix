@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Optical Coherence Tomography/Introduciton/","dgPassFrontmatter":true,"created":"2025-07-12T09:37:31.244+08:00","updated":"2025-07-12T16:10:21.521+08:00"}
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Optical Coherence Tomography/Introduciton/","dgPassFrontmatter":true,"created":"2025-07-12T09:37:31.244+08:00","updated":"2025-07-12T16:57:29.482+08:00"}
 ---
 
+In this section, I will briefly explain the basic measurement principle of OCT and give some relevant indicators to give an intuitive understanding of OCT, about some important concepts such as backward scattered light will be given in the follow-up to give a detailed description, there is no need to be overly entangled in the relevant formulas will be given in the follow-up to give a detailed derivation of the process, this is only a qualitative analysis.
 # What is Optical Coherence Tomography?
 ## Basic Understanding
 Optical Coherence Tomography (OCT) is a non-contact optical measurement that can precisely measure the distance, and is mainly used for imaging the laminated structure of objects. Currently, it can be divided into two types: time-domain (TD-OCT) and Fourier-domain (FD-OCT), with a resolution of 1-15 um and an imaging depth of about 2 mm, and FD-OCT can usually achieve higher resolution and signal-to-noise ratio[1-3].
@@ -22,7 +23,7 @@ $$
 $$
 **A suitable broadband light source is selected and the reference arm is configured with a motor for scanning, so that when interference occurs, the two arms are approximately equidistant from each other.**
 ## Disadvantage and Improve
-
+ 
 
 ## Performance Indicators and Corresponding Determinants
 | index                 | factor             | magnitude        | expression                                                        |
