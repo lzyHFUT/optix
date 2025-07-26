@@ -1,0 +1,71 @@
+---
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Quantum Optical Coherence Tomography/List/","dgPassFrontmatter":true,"created":"2025-07-04T21:10:35.974+08:00","updated":"2025-07-08T16:01:07.877+08:00"}
+---
+
+- Huang, D. et al. Optical coherence tomography. Science 254, 1178–81 (1991).
+- Fujimoto, J. G. et al. Optical biopsy and imaging using optical coherence tomography. Nat Med 1, 970–972 (1995).
+- Tearney, G. J. et al. In vivo endoscopic optical biopsy with optical coherence tomography. Science 276, 2037–2039 (1997).
+- Drexler, W. et al. Ultrahigh-resolution ophthalmic optical coherence tomography. Nat. Med. 7, 502–507 (2001).
+- Fujimoto, J. G. Optical coherence tomography for ultrahigh resolution in vivo imaging. Nat. Biotechnol. 21, 1361–1367 (2003).
+- Adler, D. C. et al. Three-dimensional endomicroscopy using optical coherence tomography. Nature Photon 1, 709–716 (2007).
+- Palanker, D. V. et al. Femtosecond laser–assisted cataract surgery with integrated optical coherence tomography. Sci. Transl. Med. (2010).
+- Liu, L. et al. Imaging the subcellular structure of human coronary atherosclerosis using micro–optical coherence tomography. Nat. Med. 17, 1010–1014 (2011).
+- Robles, F. E., Wilson, C., Grant, G. & Wax, A. Molecular imaging true-colour spectroscopic optical coherence tomography. Nat. Photonics 5, 744–747 (2011).
+- Yoo, H. et al. Intra-arterial catheter for simultaneous microstructural and molecular imaging in vivo. Nat. Med. 17, 1680–1684 (2011).
+- Vakoc, B. J., Fukumura, D., Jain, R. K. & Bouma, B. E. Cancer imaging by optical coherence tomography: Preclinical progress and clinical potential. Nat. Rev. Cancer 12, 363–368 (2012).
+- Ahmad, A. et al. Real-time in vivo computed optical interferometric tomography. Nat. Photonics 7, 444–448 (2013).
+- Gora, M. J. et al. Tethered capsule endomicroscopy enables less invasive imaging of gastrointestinal tract microstructure. Nat Med 19, 238–240 (2013).
+- Kut, C. et al. Detection of human brain cancer infiltration ex vivo and in vivo using quantitative optical coherence tomography. Sci. Transl. Med. 7, 292ra100-292ra100 (2015).
+- Yi, J. et al. Visible light optical coherence tomography measures retinal oxygen metabolic response to systemic oxygenation. Light: Sci. Appl. 4, e334–e334 (2015).
+- Adams, D. C. et al. Birefringence microscopy platform for assessing airway smooth muscle structure and function in vivo. Sci. Transl. Med. (2016).
+- Badon, A. et al. Smart optical coherence tomography for ultra-deep imaging through highly scattering media. Sci. Adv. (2016).
+- Kennedy, B. F., Wijesinghe, P. & Sampson, D. D. The emergence of optical elastography in biomedicine. Nature Photon 11, 215–221 (2017).
+- Liba, O. et al. Speckle-modulating optical coherence tomography in living mice and humans. Nat. Commun. 8, 1–13 (2017).
+- Yuan, W. et al. Super-achromatic monolithic microprobe for ultrahigh-resolution endoscopic optical coherence tomography at 800 nm. Nat Commun 8, 1531 (2017).
+- Kashani, A. H. et al. A bioengineered retinal pigment epithelial monolayer for advanced, dry age-related macular degeneration. Sci. Transl. Med. (2018).
+- Leartprapun, N., Iyer, R. R., Untracht, G. R., Mulligan, J. A. & Adie, S. G. Photonic force optical coherence elastography for three-dimensional mechanical microscopy. Nat Commun 9, 1–13 (2018).
+- Liu, R. et al. Single capillary oximetry and tissue ultrastructural sensing by dual-band dual-sscan inverse spectroscopic optical coherence tomography. Light: Sci. Appl. 7, 1–13 (2018).
+- Pahlevaninezhad, H. et al. Nano-optic endoscope for high-resolution optical coherence tomography in vivo. Nat Photonics 12, 540–547 (2018).
+- Ramakonar, H. et al. Intraoperative detection of blood vessels with an imaging needle during neurosurgery in humans. Sci. Adv. (2018).
+- Siddiqui, M. et al. High-speed optical coherence tomography by circular interferometric ranging. Nat. Photonics 12, 111–116 (2018).
+- Israelsen, N. M. et al. Real-time high-resolution mid-infrared optical coherence tomography. Light: Sci. Appl. 8, 11 (2019).
+- Leung, H. M. et al. Intranasal micro-optical coherence tomography imaging for cystic fibrosis studies. Sci. Transl. Med. (2019).
+- Liu, R., Cheng, S., Tian, L. & Yi, J. Deep spectral learning for label-free optical imaging oximetry with uncertainty quantification. Light: Sci. Appl. 8, 1–13 (2019).
+- Winkelmann, J. A. et al. Spectral contrast optical coherence tomography angiography enables single-scan vessel imaging. Light Sci Appl 8, 7 (2019).
+- Yin, B. et al. 3D cellular-resolution imaging in arteries using few-mode interferometry. Light Sci Appl 8, 104 (2019).
+- Zhou, K. C., Qian, R., Degan, S., Farsiu, S. & Izatt, J. A. Optical coherence refraction tomography. Nat. Photonics 13, 794–802 (2019).
+- Li, J. et al. Ultrathin monolithic 3D printed optical coherence tomography endoscopy for preclinical and clinical use. Light Sci Appl 9, 124 (2020).
+- Li, Y., Moon, S., Chen, J. J., Zhu, Z. & Chen, Z. Ultrahigh-sensitive optical coherence elastography. Light: Sci. Appl. 9, 1–10 (2020).
+- Mazlin, V. et al. Real-time non-contact cellular imaging and angiography of human cornea and limbus with common-path full-field/SD OCT. Nat Commun 11, 1868 (2020).
+- Pandiyan, V. P. et al. The optoretinogram reveals the primary steps of phototransduction in the living human eye. Sci. Adv. (2020).
+- Scholler, J. et al. Dynamic full-field optical coherence tomography: 3D live-imaging of retinal organoids. Light Sci Appl 9, 140 (2020).
+- Ughi, G. J. et al. A neurovascular high-frequency optical coherence tomography system enables in situ cerebrovascular volumetric microscopy. Nat Commun 11, 3851 (2020).
+- Varadarajan, A. V. et al. Predicting optical coherence tomography-derived diabetic macular edema grades from fundus photographs using deep learning. Nat. Commun. 11, 1–8 (2020).
+- Yuan, W. et al. Theranostic OCT microneedle for fast ultrahigh-resolution deep-brain imaging and efficient laser ablation in vivo. Sci. Adv. 6, eaaz9664 (2020).
+- Draelos, M. et al. Contactless optical coherence tomography of the eyes of freestanding individuals with a robotic scanner. Nat. Biomed. Eng. 5, 726–736 (2021).
+- Ji, X. et al. Millimeter-scale chip–based supercontinuum generation for optical coherence tomography. Sci. Adv. (2021).
+- Marchand, P. J. et al. Soliton microcomb based spectral domain optical coherence tomography. Nat. Commun. 12, 1–9 (2021).
+- Nguyen, V. P. et al. Chain-like gold nanoparticle clusters for multimodal photoacoustic microscopy and optical coherence tomography enhanced molecular imaging. Nat. Commun. 12, 34 (2021).
+- Rank, E. A. et al. Toward optical coherence tomography on a chip: In vivo three-dimensional human retinal imaging using photonic integrated circuit-based arrayed waveguide gratings. Light: Sci. Appl. 10, 1–15 (2021).
+- Rao D. S., S. et al. Shot-noise limited, supercontinuum-based optical coherence tomography. Light: Sci. Appl. 10, 133 (2021).
+- Tang, P. et al. Polarization sensitive optical coherence tomography with single input for imaging depth-resolved collagen organizations. Light: Sci. Appl. 10, 1–12 (2021).
+- Zhang, Y. et al. Neural network-based image reconstruction in swept-source optical coherence tomography using undersampled spectral data. Light: Sci. Appl. 10, 1–14 (2021).
+- Zhu, J., Freitas, H. R., Maezawa, I., Jin, L. & Srinivasan, V. J. 1700 nm optical coherence microscopy enables minimally invasive, label-free, in vivo optical biopsy deep in the mouse brain. Light Sci Appl 10, 145 (2021).
+- Araki, M. et al. Optical coherence tomography in coronary atherosclerosis assessment and intervention. Nat. Rev. Cardiol. 19, 684–703 (2022).
+- Lin, Y., Leartprapun, N., Luo, J. C. & Adie, S. G. Light-sheet photonic force optical coherence elastography for high-throughput quantitative 3D micromechanical imaging. Nat. Commun. 13, 1–11 (2022).
+- Pahlevaninezhad, M. et al. Metasurface-based bijective illumination collection imaging provides high-resolution tomography in three dimensions. Nat. Photonics 16, 203–211 (2022).
+- Sampson, D. M., Dubis, A. M., Chen, F. K., Zawadzki, R. J. & Sampson, D. D. Towards standardizing retinal optical coherence tomography angiography: A review. Light: Sci. Appl. 11, 1–22 (2022).
+- Feng, X., Li, G.-Y. & Yun, S.-H. Ultra-wideband optical coherence elastography from acoustic to ultrasonic frequencies. Nat Commun 14, 1–13 (2023).
+- He, B. et al. Robotic-OCT guided inspection and microsurgery of monolithic storage devices. Nat. Commun. 14, 1–14 (2023).
+- Liu, X. et al. Posterior scleral birefringence measured by triple-input polarization-sensitive imaging as a biomarker of myopia progression. Nat. Biomed. Eng 7, 986–1000 (2023).
+- Untracht, G. R. et al. Spatially offset optical coherence tomography: Leveraging multiple scattering for high-contrast imaging at depth in turbid media. Sci. Adv. 9, eadh5435 (2023).
+- Kvåle Løvmo, M. et al. Ultrasound-induced reorientation for multi-angle optical coherence tomography. Nat Commun 15, 2391 (2024).
+- Zekavat, S. M. et al. Phenome- and genome-wide analyses of retinal optical coherence tomography images identify links between ocular and systemic health. Sci. Transl. Med. 16, eadg4517 (2024).
+- Y. Winetraub, A. V. Vleck, E. Yuan, I. Terem, J. Zhao, C. Yu, W. Chan, H. Do, S. Shevidi, M. Mao, J. Yu, M. Hong, E. Blankenberg, K. E. Rieger, S. Chu, S. Aasi, K. Y. Sarin, A. de la Zerda, Noninvasive virtual biopsy using micro-registered optical coherence tomography (OCT) in human subjects. Sci. Adv. (2024).
+- Steinberg, A. M., Kwiat, P. G., & Chiao, R. Y. (1992). Dispersion cancellation and high-resolution time measurements in a fourth-order optical interferometer. _Physical Review A_, _45_(9), 6659.
+- Steinberg, A. M., Kwiat, P. G., & Chiao, R. Y. (1992). Dispersion cancellation in a measurement of the single-photon propagation velocity in glass. _Physical review letters_, _68_(16), 2421.
+- Okano, M., Okamoto, R., Tanaka, A., Ishida, S., Nishizawa, N., & Takeuchi, S. (2013). Dispersion cancellation in high-resolution two-photon interference. _Physical Review A—Atomic, Molecular, and Optical Physics_, _88_(4), 043845.
+- Graciano, P. Y., Martínez, A. M. A., Lopez-Mago, D., Castro-Olvera, G., Rosete-Aguilar, M., Garduño-Mejía, J., ... & U’Ren, A. B. (2019). Interference effects in quantum-optical coherence tomography using spectrally engineered photon pairs. _Scientific Reports_, _9_(1), 8954.
+- Franson, J. D. (1992). Nonlocal cancellation of dispersion. _Physical Review A_, _45_(5), 3126.
+- De Boer, J. F., Hitzenberger, C. K., & Yasuno, Y. (2017). Polarization sensitive optical coherence tomography–a review. _Biomedical optics express_, _8_(3), 1838-1873.
+- Abouraddy, A. F., Nasr, M. B., Saleh, B. E., Sergienko, A. V., & Teich, M. C. (2002). Quantum-optical coherence tomography with dispersion cancellation. _Physical Review A_, _65_(5), 053817.
