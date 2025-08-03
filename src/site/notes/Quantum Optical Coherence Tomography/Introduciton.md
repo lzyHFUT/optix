@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Quantum Optical Coherence Tomography/Introduciton/","dgPassFrontmatter":true,"created":"2025-07-14T16:35:03.000+08:00","updated":"2025-07-14T16:35:03.000+08:00"}
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Quantum Optical Coherence Tomography/Introduciton/","dgPassFrontmatter":true,"created":"2025-07-26T16:47:43.000+08:00","updated":"2025-07-26T16:47:43.000+08:00"}
 ---
 
 In this section, I will briefly explain the basic measurement principle of OCT and give some relevant indicators to give an intuitive understanding of OCT, about some important concepts such as backward scattered light will be given in the follow-up to give a detailed description, there is no need to be overly entangled in the relevant formulas will be given in the follow-up to give a detailed derivation of the process, this is only a qualitative analysis.
