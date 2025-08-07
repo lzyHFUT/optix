@@ -5,4 +5,4 @@
 # Cost-effective enhancement of SPR performance via spectral shaping techniques
 - Ziyu Liu, Zhiwei Feng, Guo Xia, ShunLong Shu, YongQing Wei, and Hui Zhang, "Cost-effective enhancement of SPR performance via spectral shaping techniques," Appl. Opt. 64, 3494-3501 (2025)
 **有空再写 先放张系统图看看**
-![Pasted image 20250423214842.png](/img/user/Weekly%20reading/Pasted%20image%2020250423214842.png)
+![[Pasted image 20250423214842.png\|Pasted image 20250423214842.png]]

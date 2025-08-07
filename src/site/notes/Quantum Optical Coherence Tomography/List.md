@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Quantum Optical Coherence Tomography/List/","dgPassFrontmatter":true,"created":"2025-07-26T16:47:43.000+08:00","updated":"2025-07-26T16:47:43.000+08:00"}
+{"dg-publish":true,"cssclasses":["img-grid"],"permalink":"/Quantum Optical Coherence Tomography/List/","dgPassFrontmatter":true,"created":"2025-07-26T16:47:43.000+08:00","updated":"2025-08-05T00:48:02.775+08:00"}
 ---
 
 - Huang, D. et al. Optical coherence tomography. Science 254, 1178–81 (1991).
